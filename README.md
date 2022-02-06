@@ -4,6 +4,9 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 
 ![Bakeneko 65](./image/bakeneko-65.jpg)
 
+## What is this branch
+hotswap, ciel65, rerouted for MU
+
 ## Features
 
 - Single piece tray case
