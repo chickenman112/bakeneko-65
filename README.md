@@ -60,5 +60,5 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 - **Maker Keyboards** suggested adding a plate cutout to remove the PCB using a keycap puller
 - And many community members for giving me advice and feedback, thanks!
 =======
-Hotswap PCB for the ciel65, modified to use 32u4MU and multilayout hotswap
+Hotswap PCB for the ciel65, modified to use 32u4MU and multilayout hotswap, uses RMI's hotswap footprints
 >>>>>>> Stashed changes
