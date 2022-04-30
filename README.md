@@ -1,5 +1,6 @@
 # Bakeneko 65 V3
 
+<<<<<<< Updated upstream
 A simple 65% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini. See also the [introduction video](https://youtu.be/o677NcIUri4).
 
 ![Bakeneko 65](./image/bakeneko-65.jpg)
@@ -58,3 +59,6 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 - **Rhuk** gave me a lot of advice on keyboard design and manufacturing
 - **Maker Keyboards** suggested adding a plate cutout to remove the PCB using a keycap puller
 - And many community members for giving me advice and feedback, thanks!
+=======
+Hotswap PCB for the ciel65, modified to use 32u4MU and multilayout hotswap
+>>>>>>> Stashed changes
